@@ -2,6 +2,8 @@
 
 ## Diagrama de Classes
 
+http://localhost:8080/h2-console/
+
 ```mermaid
 classDiagram
     class User {
